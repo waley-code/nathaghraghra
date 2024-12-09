@@ -72,7 +72,7 @@ function Navbar() {
               to="MyPortfolio"
               className="navbar--content"
             >
-              Portfolio
+              Messages
             </Link>
           </li>
           <li>

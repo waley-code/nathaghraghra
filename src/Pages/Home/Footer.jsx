@@ -33,7 +33,7 @@ function Footer() {
                 to="MyPortfolio"
                 className="text-md"
               >
-                Portfolio
+                Messages
               </Link>
             </li>
             <li>
@@ -65,6 +65,7 @@ function Footer() {
             <li>
               <Link
                 activeClass="navbar--active-content"
+                onClick={""}
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -102,7 +103,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/nathaghraghra"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +147,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href=" https://www.linkedin.com/in/nath-aghraghra"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -171,9 +172,10 @@ function Footer() {
         </div>
       </div>
       <hr className="divider" />
-      <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
-        <div className="footer--social--icon">
+      <div className="footer--items">
+        {/* <p className="footer--content">Made with 💖 by Wale</p> */}
+        <p className="footer--content">&copy; {new Date().getFullYear()} @apstnathaghraghra. All rights reserved.</p>
+        {/* <div className="footer--social--icon">
           <ul>
             <li>
               <Link
@@ -215,7 +217,7 @@ function Footer() {
               </Link>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </footer>
   );
