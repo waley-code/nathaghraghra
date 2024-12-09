@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nathaghraghra/static/css/main.63d1ceb6.css",
+    "main.js": "/nathaghraghra/static/js/main.25cd8c1e.js",
+    "index.html": "/nathaghraghra/index.html",
+    "main.63d1ceb6.css.map": "/nathaghraghra/static/css/main.63d1ceb6.css.map",
+    "main.25cd8c1e.js.map": "/nathaghraghra/static/js/main.25cd8c1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d1ceb6.css",
+    "static/js/main.25cd8c1e.js"
+  ]
+}
