@@ -10,8 +10,8 @@ export default function HeroSection() {
             Aghraghra
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+            Author, Life coach, and founder of RISE  
+            <br /> (Rapgen International School of Excellence)
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>
